@@ -14,7 +14,6 @@ Thankfully [Zig](https://ziglang.org/) can help to alleviate this pain point as 
 Assuming you have Zig already installed, you can cross compile a Go application like so:
 
 ```console
-
 $ CGO_ENABLED=1 GOOS=linux GOARCH=amd64 CC="zig cc -target x86_64-linux" CXX="zig c++ -target x86_64-linux" go build --tags extended
 
 ```
