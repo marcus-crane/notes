@@ -30,6 +30,7 @@ jobs:
           projectName: 9knotes
           directory: public
           gitHubToken: ${{ secrets.GITHUB_TOKEN }}
+          branch: v4
       - uses: mshick/add-pr-comment@v2
         with:
           message: |
