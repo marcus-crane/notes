@@ -21,8 +21,6 @@ jobs:
         run: npm ci
       - name: Build Quartz
         run: npx quartz build
-      - name: Generate Netlify redirects file
-        run: python scripts/generate-redirects.py
       - name: Publish to Cloudflare Pages
         id: cloudflare-publish
         uses: cloudflare/pages-action@v1
