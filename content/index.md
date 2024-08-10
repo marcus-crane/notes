@@ -7,3 +7,6 @@ See the [documentation](https://quartz.jzhao.xyz) for how to get started.
 
 [[software|Software]]
 
+## Tools
+
+- [[software/tools/firefox/firefox-local-cert-store|Firefox Cert Store]]

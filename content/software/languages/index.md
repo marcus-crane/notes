@@ -1,5 +1,3 @@
 ---
 title: Languages
 ---
-
-- [[golang|Go]]
