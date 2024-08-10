@@ -9,4 +9,4 @@ See the [documentation](https://quartz.jzhao.xyz) for how to get started.
 
 ## Tools
 
-- [[software/tools/firefox/firefox-local-cert-store|Firefox Cert Store]]
+- [[firefox-local-cert-store|Firefox Cert Store]]
